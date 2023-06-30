@@ -1,7 +1,7 @@
 # Olá! Eu sou Kátia Regina dos Santos
 ### Sou contadora
 ### Atualmente trabalho com Cálculos Trabalhistas
-### Estudando Programação
+### Estudando Programação e Ciência de Dados
 
 <!--
 **katianemec/katianemec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
